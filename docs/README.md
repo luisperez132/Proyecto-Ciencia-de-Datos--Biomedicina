@@ -1,4 +1,4 @@
-# Carpeta /notebooks
+## Carpeta /docs
 
-Contiene los cuadernos Jupyter con el desarrollo del análisis exploratorio de datos (EDA), pruebas estadísticas y modelos predictivos.
+Contiene el reporte del proyecto, asi como las referencias utilizadas
 
